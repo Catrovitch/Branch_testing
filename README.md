@@ -1,1 +1,3 @@
-# Branch_testing
+## git-harjoituksia
+
+Harjoitellaan branchien käyttöä
